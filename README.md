@@ -1,3 +1,4 @@
+#CSI3025 - LAB FAT
 # BMI Calculator
 
 This is a simple BMI (Body Mass Index) calculator implemented in JavaScript. It calculates BMI based on weight and height inputs provided by the user.
