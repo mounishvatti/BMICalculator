@@ -1,0 +1,15 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "Calculate BMI",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BMICalculator"
+  },
+  "author": "mounishvatti",
+  "license": "MIT"
+}
